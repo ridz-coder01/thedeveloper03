@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/the_developer.01">
+   <a href="https://github.com/the_developer03">
     <img src="https://user-images.githubusercontent.com/100421286/193405245-bba2b291-7283-44dd-988c-2a616a410688.gif"width="800"> </a>
     </p>
 
@@ -37,22 +37,6 @@
 
 # My Github Status:
 
-<br>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=the_developer)](https://github.com/the_developer)
-
-<br>
-
-![Github Badges](https://github-readme-stats.vercel.app/api?username=the_developer &show_icons=true&theme=vision-friendly-dark)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the_developer.01&layout=compact)](https://github.com/mrjuice01/github-readme-stats)<br>
-![My Profile Views](https://gpvc.arturio.dev/the_developer)
-<br>
-<br>
-<br>
-
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
 </p>
@@ -62,7 +46,7 @@
 </h2>
 
 <p align="center">
-   <a href="https://github.com/the_developer.01">
+   <a href="https://github.com/the_developer03">
     <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
     </p>
 <br>
