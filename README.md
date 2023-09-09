@@ -12,18 +12,25 @@
     </a>
 </p>
 </div>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
+### <div align="center">I'm Mayank, a full-time full-stack web developer 👨‍💻</div>  
+  
 
+- 🔭 I’m currently working on [MERN Project](https://github.com/madhukarmayank?tab=repositories)  
+  
 
-# My about:
-- ᴅᴇᴠᴇʟᴏᴘᴇʀ|•|ᴄᴏᴅᴇʀ|•|ʙᴜɢ ʜᴏꜱᴛ ʜᴜɴᴛᴇʀ|•|ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ|•|ᴀɴᴅʀᴏɪᴅ ᴀᴘᴘ ʙᴜɪʟᴅᴇʀ|•|ᴡʜᴀᴛꜱᴘᴘ ᴍᴏᴅᴅᴇʀ|•|ᴀᴅʀᴏɪᴅ/ɪᴏꜱ ᴠɪʀᴜꜱ ᴄʀᴇᴀᴛ ᴀɴᴅ ᴀʟꜱᴏ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇᴀɴᴅꜱ ᴄʀᴜꜱʜ• (𝙾𝙿𝚂 𝙸𝙼 𝚂𝙾𝚁𝚁𝚈 𝙸𝙵 𝚃𝙷𝙴 𝙻𝙰𝚂𝚃 𝙻𝙸𝙽𝙴 𝚆𝙰𝚂 𝚃𝙾𝙾 𝙿𝙴𝚁𝚂𝙾𝙽𝙰𝙻🙂😧😂) 
-- I'm intesested in Everything Related To Coding languages(C, Bash) and object oriented language(Java, Python).
-- My current ongoing projects are: Whatsapp Bot, Termux and Khali Srcipts.
-- Currently working on [BayMax-Bot](https://github.com/mrjuice01/Baymax-v6)
+- 🌱 I’m currently learning JavaScript and React  
+  
 
-<br>
-<br>
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
 
+- ⚡ Fun fact: I use tabs over spaces  
+  
 # My Recent Project:
 - [Bugs1 (Dangerous Virus)](https://github.com/mrjuice01/bugs1)
 <p align="left">
@@ -59,7 +66,73 @@
 
 -   [WhatsApp-banner-Master](https://github.com/mrjuice01/Whatsapp-Bann-Master)
 
+<br><p align="center">
+   <a href="https://github.com/the_developer03">
+    <img src="https://user-images.githubusercontent.com/100421286/193405245-bba2b291-7283-44dd-988c-2a616a410688.gif"width="800"> </a>
+    </p>
+
+
+<div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+Bro+Itz+the+developer+;Thanks+for+Visiting+;Follow+my+github"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Mayank, a full-time full-stack web developer 👨‍💻</div>  
+  
+
+- 🔭 I’m currently working on [MERN Project](https://github.com/madhukarmayank?tab=repositories)  
+  
+
+- 🌱 I’m currently learning JavaScript and React  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+# My Recent Project:
+- [Bugs1 (Dangerous Virus)](https://github.com/mrjuice01/bugs1)
+<p align="left">
+   <a href="https://github.com/mrjuice01/bugs1>
+    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="300">  
+</p>
+
+<h3 align="left"> Bugs1 A Powerfull IOS & Android Bug 
+</h3>
+<br><br><br>
+
+# My Github Status:
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</p>
+
+
+<h2 align="center"> I will keep running and improving my progress day by day...
+</h2>
+
+<p align="center">
+   <a href="https://github.com/the_developer03">
+    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
+    </p>
 <br>
+
+# My Popular Repositories:
+
+-   [BayMax Bot Beta](https://github.com/mrjuice01/BayMax-bot-Beta)
+
+-   [Insta Followers](https://github.com/mrjuice01/insfollow)
+
+
 <br>
 <br>
 
