@@ -12,28 +12,22 @@
     </a>
 </p>
 
-   ### <div align="center">I'm the developer, a full-time full-stack web developer 👨‍💻</div>  
+   ### <div align="center">I'm the developer, a full-time full-stack developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [SM TECH Project](https://github.com/thedeveloper03?tab=repositories)  
   
 
-- 🌱 I’m currently learning JavaScript and React  
+- 🌱 I’m currently learning JavaScript,python and other coding languages 
   
-
 - ❓ Ask me about anything related to SM TECH stack and related technologies  
   
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 # My Recent Project:
-- [Bugs1 (Dangerous Virus)](https://github.com/mrjuice01/bugs1)
+- [Bugs1 (Dangerous Virus)](https://github.com/thedeveloper03/bugs)
 <p align="left">
-   <a href="https://github.com/mrjuice01/bugs1>
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="300">  
-</p>
-
-<h3 align="left"> Bugs1 A Powerfull IOS & Android Bug 
+   <h3 align="left"> Bugs1 A Powerfull IOS & Android Bug 
 </h3>
 <br><br><br>
 
