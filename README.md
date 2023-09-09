@@ -17,84 +17,16 @@
 </div>  
   
 
-### <div align="center">I'm Mayank, a full-time full-stack web developer 👨‍💻</div>  
+### <div align="center">I'm the developer, a full-time full-stack web developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [MERN Project](https://github.com/madhukarmayank?tab=repositories)  
-  
-
-- 🌱 I’m currently learning JavaScript and React  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-# My Recent Project:
-- [Bugs1 (Dangerous Virus)](https://github.com/mrjuice01/bugs1)
-<p align="left">
-   <a href="https://github.com/mrjuice01/bugs1>
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="300">  
-</p>
-
-<h3 align="left"> Bugs1 A Powerfull IOS & Android Bug 
-</h3>
-<br><br><br>
-
-# My Github Status:
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
-</p>
-
-
-<h2 align="center"> I will keep running and improving my progress day by day...
-</h2>
-
-<p align="center">
-   <a href="https://github.com/the_developer03">
-    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
-    </p>
-<br>
-
-# My Popular Repositories:
-
--   [BayMax Bot Beta](https://github.com/mrjuice01/BayMax-bot-Beta)
-
--   [Insta Followers](https://github.com/mrjuice01/insfollow)
-
--   [WhatsApp-banner-Master](https://github.com/mrjuice01/Whatsapp-Bann-Master)
-
-<br><p align="center">
-   <a href="https://github.com/the_developer03">
-    <img src="https://user-images.githubusercontent.com/100421286/193405245-bba2b291-7283-44dd-988c-2a616a410688.gif"width="800"> </a>
-    </p>
-
-
-<div align="center">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+Bro+Itz+the+developer+;Thanks+for+Visiting+;Follow+my+github"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
-</div>
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Mayank, a full-time full-stack web developer 👨‍💻</div>  
-  
-
-- 🔭 I’m currently working on [MERN Project](https://github.com/madhukarmayank?tab=repositories)  
+- 🔭 I’m currently working on [SM TECH Project](https://github.com/thedeveloper03?tab=repositories)  
   
 
 - 🌱 I’m currently learning JavaScript and React  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to SM TECH stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -144,7 +76,7 @@
 <!-- Contact the developer-->
 <b><details><summary>Click to Chat Me</summary></b>
 
-## ```Connect With Mr THE DEVELOPER```
+## ```Connect With THE DEVELOPER```
 
 ## Follow me on
 <a href="http://t.me/olivia_allbots_support_bot"><img alt="Telegram bot" src="https://img.shields.io/badge/Telegram-the_developer-blue"/></a>
