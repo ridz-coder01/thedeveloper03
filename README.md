@@ -1,6 +1,7 @@
 <p align="center">
    <a href="https://github.com/the_developer03">
-    <img src="https://user-images.githubusercontent.com/100421286/193405245-bba2b291-7283-44dd-988c-2a616a410688.gif"width="800"> </a>
+    <img src="![Uploading 1024px-Asteroids-KnownNearEarthObjects-Animation-UpTo20180101.gif…]()
+"width="800"> </a>
     </p>
 
 
@@ -15,12 +16,12 @@
    ### <div align="center">I'm the developer, a full-time full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [SM TECH Project](https://github.com/thedeveloper03?tab=repositories)  
+- 🔭 I’m currently working on [SM Mega Project](https://github.com/thedeveloper03?tab=repositories)  
   
 
 - 🌱 I’m currently learning JavaScript,python and other coding languages 
   
-- ❓ Ask me about anything related to SM TECH stack and related technologies  
+- ❓ Ask me about anything related to SM mega stack and related technologies  
   
 - ⚡ Fun fact: I use tabs over spaces  
   
@@ -30,16 +31,6 @@
    <h3 align="left"> Bugs1 A Powerfull IOS & Android Bug 
 </h3>
 <br><br>
-
---- 
-  
-                                             S P O T I F Y  P L A Y I N G 🎧 
-  
- --- 
-  
- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) 
-  
- ---
 
 # My Github Status:
 
