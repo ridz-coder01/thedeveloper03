@@ -31,6 +31,16 @@
 </h3>
 <br><br>
 
+--- 
+  
+                                             S P O T I F Y  P L A Y I N G 🎧 
+  
+ --- 
+  
+ [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) 
+  
+ ---
+
 # My Github Status:
 
 <p align="center">
