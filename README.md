@@ -47,6 +47,8 @@
     </p>
 <br>
 
+stats](https://github-readme-stats.vercel.app/api?username=thedeveloper03 &show_icons=true&theme=radical)
+
 # My Popular Repositories:
 
 -   [Olive Whatsapp bot](https://github.com/thedeveloper03/Olivewabot)
