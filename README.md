@@ -56,9 +56,12 @@
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=thedeveloper03&show_icons=true&theme=radical)
 <br>
 <br>
-
-[stats](https://github-readme-stats.vercel.app/api?username=thedeveloper03)
-[stats](https://github-readme-stats.vercel.app/api?username=thedeveloper03&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedeveloper03&layout=compact)](https://github.com/thedeveloper03/github-readme-stats)
+<br>
+![My Profile Views](https://gpvc.arturio.dev/thedeveloper03)
+<br>
+<br>
+<br>
 
 # My Popular Repositories:
 
