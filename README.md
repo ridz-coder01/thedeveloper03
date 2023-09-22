@@ -53,7 +53,7 @@
 
 <br>
 
-[![Github Badges](https://github-readme-stats.vercel.app/api?username=thedeveloper03 &show_icons=true&theme=radical)
+[![Github Badges](https://github-readme-stats.vercel.app/api?username=thedeveloper03&show_icons=true&theme=radical)
 <br>
 <br>
 
