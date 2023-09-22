@@ -46,6 +46,12 @@
     <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
     </p>
 <br>
+<br>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=thedeveloper03)](https://github.com/thedeveloper03)
+
+<br>
 
 [stats](https://github-readme-stats.vercel.app/api?username=thedeveloper03)
 [stats](https://github-readme-stats.vercel.app/api?username=thedeveloper03&show_icons=true&theme=radical)
