@@ -24,12 +24,6 @@
   
 - ⚡ Fun fact: I use tabs over spaces  
   
-# My Recent Project:
-- [Bugs1 (Dangerous Virus)](https://github.com/thedeveloper03/bugs)
-<p align="left">
-   <h3 align="left"> Bugs1 A Powerfull IOS & Android Bug 
-</h3>
-<br><br>
 
 # My Github Status:
 
@@ -61,10 +55,7 @@
 
 -   [Ins Hackle followers](https://github.com/thedeveloper03/inshackle-bot)
 
-
-<br>
-<br>
-
+-   [Bugs (Dangerous Virus)](https://github.com/thedeveloper03/bugs)
 
 <div align="center">
     <img
