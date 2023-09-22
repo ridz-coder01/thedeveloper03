@@ -53,6 +53,10 @@
 
 <br>
 
+![Github Badges](https://github-readme-stats.vercel.app/api?username=thedeveloper03 &show_icons=true&theme=radical)
+<br>
+<br>
+
 [stats](https://github-readme-stats.vercel.app/api?username=thedeveloper03)
 [stats](https://github-readme-stats.vercel.app/api?username=thedeveloper03&show_icons=true&theme=radical)
 
