@@ -1,10 +1,3 @@
-<p align="center">
-   <a href="https://github.com/thedeveloper03">
-    <img src="![-6339184026396505221_120](https://github.com/thedeveloper03/thedeveloper03/assets/123274423/80248b46-21e3-4c60-9bc2-d1d7feda1e4a)
-"width="800"> </a>
-    </p>
-
-
 <div align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+Bro+Itz+the+developer+;Thanks+for+Visiting+;Follow+my+github"
