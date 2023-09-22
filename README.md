@@ -57,6 +57,21 @@
 
 -   [Bugs (Dangerous Virus)](https://github.com/thedeveloper03/bugs)
 
+### Life 💔
+<p align="center">
+  <img src="https://h.top4top.io/m_2571hfd4l0.mp4" />
+</p>
+
+------
+
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/track/2K1d3wo1LCF7aMRv8NIxu3" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+
 <div align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Thanks+for+your+visit;+Chat+me+below👇;+Bye+Have+a+good+Day"
