@@ -33,6 +33,13 @@
 
 # My Github Status:
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=thedeveloper03)](https://github.com/thedeveloper03)
+<br>
+![Github Badges](https://github-readme-stats.vercel.app/api?username=thedeveloper03&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedeveloper03&layout=compact)](https://github.com/thedeveloper03/github-readme-stats)
+<br>
+
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
 </p>
@@ -46,14 +53,6 @@
     <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
     </p>
 <br>
-<br>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=thedeveloper03)](https://github.com/thedeveloper03)
-<br>
-![Github Badges](https://github-readme-stats.vercel.app/api?username=thedeveloper03&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedeveloper03&layout=compact)](https://github.com/thedeveloper03/github-readme-stats)
 <br>
 # My Popular Repositories:
 
