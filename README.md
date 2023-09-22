@@ -57,11 +57,6 @@
 
 -   [Bugs (Dangerous Virus)](https://github.com/thedeveloper03/bugs)
 
-### Life 💔
-<p align="center">
-  <img src="https://h.top4top.io/m_2571hfd4l0.mp4" />
-</p>
-
 ------
 
 ### Spotify Playing 🎧
