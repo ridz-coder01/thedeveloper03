@@ -21,8 +21,8 @@
   
 - ⚡ Fun fact: I use tabs over spaces  
   
-
-# My Github Status:
+<!--My GitHub status -->
+<b><details><summary>the developer</summary></b>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thedeveloper03)](https://github.com/thedeveloper03)
 <br>
