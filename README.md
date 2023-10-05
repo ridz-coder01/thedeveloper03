@@ -1,3 +1,8 @@
+<img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador"> 
+ <h1 align="left">Hi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> I'm the developer 
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1> 
+  
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=0e14c2" alt="Profile views" /> </p>
 <div align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+Bro+Itz+the+developer+;Thanks+for+Visiting+;Follow+my+github"
