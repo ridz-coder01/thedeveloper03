@@ -22,6 +22,53 @@
 - ❓ Ask me about anything related to SM mega stack and related technologies  
   
 - ⚡ Fun fact: I use tabs over spaces 
+<br> 
+  
+ ## <img src="images/gato.gif" width="50" align="center"> &nbsp;Tech Stack 
+  
+ <div align="left"> 
+  <p> 
+     <a href='https://html.com/'> 
+       <img src="https://skillicons.dev/icons?i=html"/> 
+     </a> 
+     <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'> 
+       <img src="https://skillicons.dev/icons?i=css"/> 
+     </a> 
+     <a href='https://www.javascript.com/'> 
+       <img src="https://skillicons.dev/icons?i=js"/> 
+     </a> 
+     <a href='https://www.typescriptlang.org/'> 
+       <img src="https://skillicons.dev/icons?i=ts"/> 
+     </a> 
+     <a href='https://reactjs.org/'> 
+       <img src="https://skillicons.dev/icons?i=react"/> 
+     </a> 
+     <a href='https://nextjs.org/'> 
+       <img src="https://skillicons.dev/icons?i=nextjs"/> 
+     </a> 
+     <a href='https://nodejs.org/en/'> 
+       <img src="https://skillicons.dev/icons?i=nodejs"/> 
+     </a> 
+     <a href='https://git-scm.com/'> 
+      <img src="https://skillicons.dev/icons?i=git"/> 
+     </a> 
+     <a href='https://styled-components.com/'> 
+       <img src="https://skillicons.dev/icons?i=styledcomponents"/> 
+     </a> 
+     <a href='https://tailwindui.com/'> 
+      <img src="https://skillicons.dev/icons?i=tailwind"/> 
+     </a> 
+     <a href='https://sass-lang.com/'> 
+      <img src="https://skillicons.dev/icons?i=sass"/> 
+     </a> 
+      <a href='https://mui.com/'> 
+      <img src="https://skillicons.dev/icons?i=materialui"/> 
+     </a> 
+     <a href='https://www.figma.com/'> 
+      <img src="https://skillicons.dev/icons?i=figma"/> 
+     </a> 
+  </p> 
+ 
 
 ## 👨🏻‍💼 &nbsp;Connect with Me 
   
