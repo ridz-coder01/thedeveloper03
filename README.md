@@ -110,6 +110,10 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedeveloper03&layout=compact)](https://github.com/thedeveloper03/github-readme-stats)
 <br>
+___ 
+  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedeveloper03&count_private=true&show_icons=true&theme=tokyonight) 
+ ___
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
