@@ -101,6 +101,7 @@
 ## My GitHub status
 [![trophy](https://github-profile-trophy.vercel.app/?username=thedeveloper03)](https://github.com/thedeveloper03)
 <br>
+</p>
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=thedeveloper03&show_icons=true&theme=radical)
 <br>
 ___ 
