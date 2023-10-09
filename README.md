@@ -17,12 +17,6 @@
   </h1> 
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=0e14c2" alt="Profile views" /> </p>
-<div align="center">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+Bro+Itz+the+developer+;Thanks+for+Visiting+;Follow+my+github"
-            alt="Typing SVG"
-        />
-    </a>
 </p>
 
    ### <div align="center">I'm the developer, a full-time full-stack developer 👨‍💻</div>  
@@ -38,7 +32,7 @@
 - ⚡ Fun fact: I use tabs over spaces 
 <br> 
   
- ## <img src="images/gato.gif" width="50" align="center"> &nbsp;Tech Stack 
+ ## 👩‍💻Tech Stack 
   
  <div align="left"> 
   <p> 
