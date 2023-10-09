@@ -102,13 +102,12 @@
   
   </p>
  
-  
+ ___
+ 
 ## My GitHub status
 [![trophy](https://github-profile-trophy.vercel.app/?username=thedeveloper03)](https://github.com/thedeveloper03)
 <br>
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=thedeveloper03&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedeveloper03&layout=compact)](https://github.com/thedeveloper03/github-readme-stats)
 <br>
 ___ 
   
@@ -118,18 +117,6 @@ ___
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
 </p>
-
-
-<h2 align="center"> I will keep running and improving my progress day by day...
-</h2>
-
-<p align="center">
-   <a href="https://github.com/the_developer03">
-    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
-    </p>
-<br>
-<br>
-
 
 ------
 
