@@ -126,13 +126,6 @@
 <br>
 <br>
 
-# My Popular Repositories:
-
--   [Olive Whatsapp bot](https://github.com/thedeveloper03/Olivewabot)
-
--   [Ins Hackle followers](https://github.com/thedeveloper03/inshackle-bot)
-
--   [Bugs (Dangerous Virus)](https://github.com/thedeveloper03/bugs)
 
 ------
 
@@ -148,20 +141,6 @@
     <img
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Thanks+for+your+visit;+Chat+me+below👇;+Bye+Have+a+good+Day"
 
-<!-- Contact the developer-->
-<b><details><summary>Click to Chat Me</summary></b>
-
-## ```Connect With THE DEVELOPER```
-
-## Follow me on
-<a href="http://t.me/olivia_allbots_support_bot"><img alt="Telegram bot" src="https://img.shields.io/badge/Telegram-the_developer-blue"/></a>
- <a href="https://instagram.com/the_developer.01"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-The_developer.01-ff69b4"/></a>
-<a href="https://www.youtube.com/@smtechmods"><img src="https://img.shields.io/badge/Subscribe The developer-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
-</p>
-<a href="https://wa.me/709824720?text=Hi%20I%20Am%20From%20GitHub%20☺️">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
-    <details>
 
 #### If you have any queries or suggestions then you can contact me i will be happy to respond. 
 <br>
