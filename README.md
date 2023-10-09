@@ -124,8 +124,11 @@ ___
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Thanks+for+your+visit;+Chat+me+below👇;+Bye+Have+a+good+Day"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=963300&background=FF674200&center=true&vCenter=true&lines=Hello+there+Its+the+developer+;Thanks+for+Visiting+;Follow+my+github"
+            alt="Typing SVG"
+        />
+    </a>
 
-
-#### If you have any queries or suggestions then you can contact me i will be happy to respond. 
+## If you have any queries or suggestions then you can contact me i will be happy to respond. 
 <br>
+___
