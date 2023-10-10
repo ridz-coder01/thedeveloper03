@@ -133,4 +133,14 @@ ___
 
 ## If you have any queries or suggestions then you can contact me i will be happy to respond. 
 <br>
-___
+<div align="center"> 
+   <br/> 
+   <br/> 
+   <br/> 
+     <div> 
+       <h1>Open Source</h1> 
+       <sub>Copyright © 2023 - <a href="https://github.com/iuricode">iuricode</sub></a> 
+     </div> 
+     <br/> 
+     💖 
+ </div>
