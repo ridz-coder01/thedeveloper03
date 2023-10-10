@@ -137,9 +137,8 @@ ___
    <br/> 
    <br/> 
    <br/> 
-     <div> 
-       <h1>Open Source</h1> 
-       <sub>Copyright © 2023 - <a href="https://github.com/iuricode">iuricode</sub></a> 
+     <div>
+       <sub>Copyright © 2023 - <a href="https://github.com/thedeveloper03">The Developer</sub></a> 
      </div> 
      <br/> 
      💖 
