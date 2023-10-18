@@ -8,8 +8,8 @@
  <a href="#"><img title="Author" src="https://img.shields.io/badge/Author-The developer-orange.svg?style=for-the-badge&logo=github"></a> 
  </p> 
  <p align="center"> 
- <a href="https://github.com/adimas999/followers"><img title="Followers" src="https://img.shields.io/github/followers/adimas999?color=red&style=flat-square"></a> 
- <a href="https://github.com/adimas999/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/adimas999/BotV1?color=blue&style=flat-square"></a> 
+ <a href="https://github.com/thedeveloper03/followers"><img title="Followers" src="https://img.shields.io/github/followers/thedeveloper03?color=red&style=flat-square"></a> 
+ <a href="https://github.com/thedeveloper03/thedeveloper03 /stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/adimas999/BotV1?color=blue&style=flat-square"></a> 
  <a href="https://github.com/adimas999/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/adimas999/BotV1?color=red&style=flat-square"></a> 
  <a href="https://github.com/adimas999/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/adimas999/BotV1?label=Watchers&color=blue&style=flat-square"></a> 
  </p>
